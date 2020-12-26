@@ -260,7 +260,7 @@ span.m-left {
 .skills {
   width: 100%;
   height: 100vh;
-  margin-top: 500px;
+  margin-top: 100px;
 }
 
 .skills h1,
@@ -453,7 +453,7 @@ div.hideCategory {
 }
 */
 .contact {
-  margin-top: 50px;
+  margin-top: 500px;
 }
 
 form input,
@@ -542,11 +542,13 @@ border-bottom:2px solid #0062cc;
     width: 300px;
     margin-top: 50px;
   }
-
+  #loisir{
+    margin-top: 0;
+  }
   .skills {
     width: 100%;
     height: 100vh;
-    margin-top: 2055px;
+    margin-top: 200px;
   }
   .about {
     width: 100%;
@@ -556,10 +558,10 @@ border-bottom:2px solid #0062cc;
   .work {
     width: 100%;
     height: 100vh;
-    margin-top: 0px;
+    margin-top: 0;
   }
   .contact {
-    margin-top: 5px;
+    margin-top: 2200px;
   }
   .about h1,
   .work h1{
